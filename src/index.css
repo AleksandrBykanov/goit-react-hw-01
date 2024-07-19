@@ -5,6 +5,7 @@ body {
   font-family: sans-serif;
   line-height: 1.5;
   background-color: rgb(112, 148, 201);
+
 }
 
 h1,
@@ -26,4 +27,5 @@ ol {
 img {
   display: block;
   max-width: 100%;
+
 }

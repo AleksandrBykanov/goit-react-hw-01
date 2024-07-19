@@ -1,0 +1,43 @@
+.friends {
+  width: 1000px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.friends_ul {
+  display: flex;
+  justify-content: space-evenly;
+}
+
+.friends_li {
+  width: 144px;
+  list-style-type: none;
+  border: 2px solid black;
+  border-radius: 20px;
+  padding: 20px;
+}
+
+.friends_status {
+  width: 100px;
+  height: 30px;
+}
+
+.true {
+  color: green;
+}
+
+.false {
+  color: red;
+}
+
+.avatar {
+  width: 100px;
+
+}
+.friends_name {
+  font-weight: 700;
+  font-size: 30px;
+  margin-bottom: 15px;
+  color: black;
+  text-align: center;
+}
