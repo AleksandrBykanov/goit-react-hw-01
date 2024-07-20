@@ -2,7 +2,6 @@ import clsx from "clsx"
 import css from './FriendList.module.css';
 
 const FriendList = ({friends}) => {
-  console.log(friends);
 return (
   <div className={css.friends}>
       <ul className={css.friends_ul}>
