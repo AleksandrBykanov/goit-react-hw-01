@@ -15,26 +15,30 @@
   border: 2px solid black;
   border-radius: 20px;
   padding: 20px;
+  background-color: white;
 }
 
 .friends_status {
   width: 100px;
   height: 30px;
+  text-align: center;
+  font-size: 22px;
 }
 
-.true {
+.green {
   color: green;
 }
 
-.false {
+.red {
   color: red;
 }
 
 .avatar {
   width: 100px;
-
 }
+
 .friends_name {
+  padding-top: 10px;
   font-weight: 700;
   font-size: 30px;
   margin-bottom: 15px;
